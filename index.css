@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+.display-input {
+    height: 50px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.display-input:hover {background-color: #D6EEEE; border: 1px solid #000000;}
+
+.bg-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.cal-card {
+    width:50%;
+    
+   
+}
+.title {
+   padding-left: 45px;
+}
+
+.table {
+    border: 1px solid #D6EEEE;
+    padding: 20px;
+}
+
+.tabs {
+    background-color: #000000;
+    border: 0px;
+    color:#ffffff;
+    height:30px;
+    width:30px;
+    border-radius: 5px;
+}
+
+.tabs:hover{
+    color:#000000;
+    background-color: #D6EEEE;
+    border: 1px solid #000000;
+    border-radius:5px;
+}
